@@ -1,0 +1,43 @@
+# --- Assets e Binários (Imagens, vídeos e PDFs não ajudam na lógica) ---
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.mp4
+*.pdf
+*.zip
+*.tar.gz
+
+# --- Lock Files (Arquivos gigantescos que consomem milhares de tokens) ---
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
+
+# --- Dados, Logs e Bancos de Dados ---
+*.log
+*.csv
+*.sql
+*.sqlite
+*.jsonl
+
+# --- Pastas de Build e Cache (Código gerado automaticamente) ---
+dist/
+build/
+.next/
+.nuxt/
+.cache/
+out/
+
+# --- Pastas Pesadas ou Sensíveis ---
+data/
+backups/
+migrations/
+node_modules/
+.git/
+.env*
+
+# --- Documentação e Mídia Interna ---
+screenshots/
+media/

@@ -1,0 +1,25 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,807)<div  />
+	[1] (55,47)<a class='flex items-center' href='/' />
+		[2] (55,47)<img  />
+	[3] (730,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='#hero'>Início />
+	[4] (789,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='#about'>O Escritório />
+	[5] (849,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='#services'>Áreas />
+	[6] (900,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='#contact'>Contato />
+	[7] (950,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='/blog'>Blog />
+	O Advogado
+	Dr. Leandro
+	Hering Gomes
+	OAB/SC nº 33169
+	Sócio-fundador do escritório, com ampla experiência em Direito Tributário, Empresarial e Processual. Reconhecido pela clareza nas estratégias e pelo atendimento próximo e comprometido.
+	[8] (92,748)<a class='flex items-center gap-2 px-4 py-2 border border-white/20 text-white/80 hover:border-gold hover:text-gold transition-all duration-300 text-sm' href='https://www.instagram.com/leandrohgomesadv/' />
+		[9] (99,748)<span >Instagram />
+	[10] (162,748)<a class='flex items-center gap-2 px-4 py-2 border border-white/20 text-white/80 hover:border-gold hover:text-gold transition-all duration-300 text-sm' href='https://www.threads.net/@leandrohgomesadv' />
+		[11] (168,748)<span >Threads />
+	[12] (226,748)<a class='flex items-center gap-2 px-4 py-2 border border-white/20 text-white/80 hover:border-gold hover:text-gold transition-all duration-300 text-sm' href='https://www.tiktok.com/@leandrohgomesadv' />
+		[13] (232,748)<span >TikTok />
+
+</current_dom>

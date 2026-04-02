@@ -1,0 +1,57 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Início
+O Escritório
+Áreas
+Contato
+Blog
+Depoimentos Reais
+O Que Dizem Nossos
+Clientes
+Avaliações verificadas diretamente no Google Meu Negócio.
+[0] (892,140)<a class='flex items-center gap-4 px-6 py-4 bg-charcoal-light border border-white/10 hover:border-gold/40 transition-all duration-300 group flex-shrink-0 self-start lg:self-auto' href='https://share.google/ugSFYe9JorYy1hK3l' />
+	[1] (901,140)<div  />
+		[2] (901,131)<div  />
+			[3] (865,131)<span >5,0 />
+			[4] (900,131)<div  />
+		[5] (901,158)<p >Ver no Google Meu Negócio → />
+JD
+Joao Damacemo
+há 8 semanas
+"
+Excelente escritório, com ótimo atendimento e profissionais muito atenciosos.
+"
+SG
+Siegrid Gulde
+há 2 semanas
+"
+Parabéns sempre bem atendido.
+"
+AK
+Ana Luiza Kraus
+há 2 semanas
+"
+Atendimento excepcional e muito profissional.
+"
+[6] (42,519)<button aria-label='Ir para avaliação 1' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[7] (50,519)<button aria-label='Ir para avaliação 2' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[8] (59,519)<button aria-label='Ir para avaliação 3' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[9] (67,519)<button aria-label='Ir para avaliação 4' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[10] (75,519)<button aria-label='Ir para avaliação 5' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[11] (84,519)<button aria-label='Ir para avaliação 6' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[12] (92,519)<button aria-label='Ir para avaliação 7' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[13] (100,519)<button aria-label='Ir para avaliação 8' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[14] (109,519)<button aria-label='Ir para avaliação 9' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[15] (117,519)<button aria-label='Ir para avaliação 10' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[16] (130,519)<button aria-label='Ir para avaliação 11' class='transition-all duration-300 rounded-full w-6 h-2 bg-gold' />
+[17] (142,519)<button aria-label='Ir para avaliação 12' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[18] (150,519)<button aria-label='Ir para avaliação 13' class='transition-all duration-300 rounded-full w-2 h-2 bg-white/20 hover:bg-white/40' />
+[19] (919,519)<button aria-label='Avaliação anterior' class='w-11 h-11 border border-white/20 hover:border-gold hover:text-gold text-white/60 transition-all duration-300 flex items-center justify-center' />
+[20] (949,519)<button aria-label='Próxima avaliação' class='w-11 h-11 border border-white/20 hover:border-gold hover:text-gold text-white/60 transition-all duration-300 flex items-center justify-center' />
+Jurídico em pauta
+Últimas do Blog
+[21] (735,888)<a class='flex items-center gap-2 text-gold text-sm font-semibold tracking-widest uppercase hover:gap-4 transition-all duration-300' href='/blog'>Ver todos os artigos />
+
+</current_dom>

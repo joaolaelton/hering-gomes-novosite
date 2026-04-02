@@ -1,0 +1,11 @@
+[0] (55,47)<a class='flex items-center' href='/' />
+	[1] (55,47)<img  />
+[2] (730,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='#hero'>Início />
+[3] (789,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='#about'>O Escritório />
+[4] (849,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='#services'>Áreas />
+[5] (900,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='#contact'>Contato />
+[6] (950,47)<a class='text-sm text-white/80 hover:text-gold transition-colors duration-300 tracking-wide uppercase font-medium' href='/blog'>Blog />
+[7] (42,368)<a class='flex items-center gap-2 px-4 py-2 border border-white/20 text-white/80 hover:border-gold hover:text-gold transition-all duration-300 text-sm' href='https://www.threads.net/@leandrohgomesadv' />
+	[8] (48,368)<span  />
+[9] (106,368)<a class='flex items-center gap-2 px-4 py-2 border border-white/20 text-white/80 hover:border-gold hover:text-gold transition-all duration-300 text-sm' href='https://www.tiktok.com/@leandrohgomesadv' />
+	[10] (112,368)<span  />
