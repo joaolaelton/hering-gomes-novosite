@@ -1,0 +1,7 @@
+[build]
+  base = "app"
+  command = "npm run build"
+  # publish is managed automatically by the Next.js runtime, we shouldn't hardcode it to .next manually for SSR frameworks.
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
